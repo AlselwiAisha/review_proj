@@ -67,7 +67,7 @@ I'm using mainly html and css for building this project.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+ > Describe how a new developer could make use of your project.
 
 ### Prerequisites
 
@@ -131,6 +131,9 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+
+
+>  Mention all of the collaborators of this project.
 
 👤 **AishaAlsewi**
 
