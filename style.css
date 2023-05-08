@@ -25,7 +25,7 @@ margin: 10px 0px;
 }
 
 #survey {
-    background-color: hsl(240, 100%, 10%);
+    background-color: hsl(240, 87%, 15%);
     /* color: white; */
     margin: 10px auto;
     padding: 30px 40px;
@@ -71,5 +71,5 @@ margin: 10px 0px;
 }
 
 #submit {
-    background-color: hsl(120, 100%, 80%);
+    background-color: hsl(120, 65%, 62%);
 }
